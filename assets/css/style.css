@@ -166,7 +166,7 @@ textarea {
 	vertical-align: top;
 	margin-top: 36px;
 	border: solid 1px #dddddd;
-	width: 250px;
+	width: 205px;
 }
 
 h3 {
@@ -353,6 +353,8 @@ a:hover {
 	nav {
 		width: 100%;
 		text-align: center;
+		padding-bottom: 11px;
+		padding-top: 15px;
 	}
 
 	#cabinetcat {
