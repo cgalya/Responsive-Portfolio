@@ -193,6 +193,7 @@ footer {
 	width: 1440px;
 }
 
+/* all of the #lightbox code was borrowed, then customized, to make the portfolio page modal boxes */
 #lightbox {
 	position:fixed;
     top:0; 
